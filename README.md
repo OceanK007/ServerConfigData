@@ -1,0 +1,1 @@
+Repository which contains config data for "spring-config-server-client" and "sboot-eureka-server-client : eureka-client-word (sboot-eureka-server-client-ribbon-client branch)"
